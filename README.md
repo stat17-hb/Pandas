@@ -1,1 +1,1 @@
-# [ÆÒ´õ½º µ¥ÀÌÅÍºĞ¼® ±âÃÊ ½Ç½À](http://edu.goorm.io/learn/lecture/3999/pandas-%ED%8C%AC%EB%8D%94%EC%8A%A4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EA%B8%B0%EC%B4%88-%EC%8B%A4%EC%8A%B5)
+Minsuk Heoë‹˜ì˜ [íŒ¬ë”ìŠ¤ ë°ì´í„°ë¶„ì„ ê¸°ì´ˆ ì‹¤ìŠµ](http://edu.goorm.io/lecture/3999/pandas-%ED%8C%AC%EB%8D%94%EC%8A%A4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EA%B8%B0%EC%B4%88-%EC%8B%A4%EC%8A%B5) ê°•ì˜ë¥¼ ë³´ê³  ì •ë¦¬í•œ ê²ƒì…ë‹ˆë‹¤.
